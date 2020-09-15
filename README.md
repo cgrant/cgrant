@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+So glad you stumbled on this awesome goldmine of technical expertiese. 
+
+So glad you stumbled on this awesome goldmine of technical expertise.
+While I've had the honor of working at some great places, all the contents in these repos are my personal opinions and contributions. Nothing in here reflects any relationship to my current or previous employers. Sooo.. take it with a grain of salt 😄 
+
+
+
 <!--
 **cgrant/cgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
